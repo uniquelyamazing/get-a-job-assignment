@@ -1,0 +1,13 @@
+.body{
+  background-color: aliceblue;
+  height: 750px;
+  width: 450px;
+  margin-left: 10px;
+  padding-left: 10px;
+
+}
+
+.profile{
+ display: flex;
+ flex-direction: row;
+}
